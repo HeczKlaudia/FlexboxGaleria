@@ -1,5 +1,6 @@
 fent beírt sort
 2. sor idelent ez is nagyon fontos
 3. sor lent fontos
-4. sor ez is kellhet
+4. ez is kell idefent
+3. sor nem annyira fontos
 5. sor lent vagyok
